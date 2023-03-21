@@ -1,5 +1,4 @@
-This Eliza program plays the role of a university academic advisor, unlike the traditional Eliza program
-that plays the role of a psychotherapist. The code remembers a few details about the student and brings those topics up in conversation. 
+This Eliza program plays the role of a university academic advisor, unlike the traditional Eliza program that plays the role of a psychotherapist. The code remembers a few details about the student and brings those topics up in conversation. 
 The input given by the student begins with "< ".
 The response given by Eliza begins with "> ".
 
