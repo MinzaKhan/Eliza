@@ -5,13 +5,12 @@ The response given by Eliza begins with "> ".
 
 
 Usage instructions: Enter your input after the "< " sign. End your input with proper punctuation marks. The Eliza code will then give a suitable response.
+
 Example 1:
 input: I am feeling stressed.
 output: The academic year gets stressful sometimes, but I am sure you will be fine!
+
 Example 2:
-input: I want to study.
-output: Why do you want to study.
-Example 3:
 input: I don't know how many credits I need to graduate.
 output: Why don't you know how many credits you need to graduate?
 
